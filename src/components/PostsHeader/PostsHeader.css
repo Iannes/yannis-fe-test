@@ -1,0 +1,14 @@
+.posts-header {
+    min-width: 100%;
+    margin-bottom: 20px;
+    min-height: 80px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+}
+
+.posts-search,
+.user-search {
+    display: flex;
+    align-items: flex-end;
+}

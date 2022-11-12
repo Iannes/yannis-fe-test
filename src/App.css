@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home-page-layout {
+  height: 100vh;
+  display: flex;
+}

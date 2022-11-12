@@ -1,0 +1,15 @@
+.posts-page {
+    padding: 20px;
+}
+
+.posts-layout {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+}
+
+.list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
